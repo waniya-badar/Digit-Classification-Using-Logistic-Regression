@@ -1,5 +1,5 @@
 # Digit-Classification-Using-Logistic-Regression
-Digit Classification Using Logistic Regression - a machine learning project using Logistic Regression from Scikit-learn to classify digits (0-9) using the UCI ML Digits Dataset.
+Digit Classification Using Logistic Regression - A machine learning project using Logistic Regression from Scikit-learn to classify digits (0-9) using the UCI ML Digits Dataset.
 
 ### Features:
 - Trained on 1,797 grayscale 8×8 images.
